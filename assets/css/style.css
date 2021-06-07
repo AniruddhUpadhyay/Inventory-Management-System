@@ -1,0 +1,15 @@
+body{
+    background-image: url("../../data/item_images/bgcover.png");
+    background-size:cover ;
+}
+.welcome{
+    margin: 50px;
+    border: 50px;
+    padding: 50px;
+    background: linear-gradient(lightblue, blue);
+    font-size: 50px;
+    text-align: center;
+    color: white;
+    border-radius: 15px 50px;
+
+}
